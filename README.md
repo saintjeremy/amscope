@@ -1,6 +1,3 @@
-# amscope
-Audio Microscope - a sonic analysis proggram for properly digging structure from sound
-
 # About amscope
 
 `amscope` is a small Python audio microscope. It takes an audio file, looks at basic musical and acoustic features, and saves images that help us see what is happening inside the sound.
